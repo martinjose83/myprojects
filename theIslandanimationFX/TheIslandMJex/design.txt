@@ -1,0 +1,38 @@
+new class Island
+holds all things
+
+class thing superclass for all contents.
+
+class land animals extends things
+class rabit extends animals
+class cat  extends animals
+
+class birds extends things
+class sparrow extends birds
+class kiwi extends birds
+
+class goegraphy extends things
+strem extends gography
+grass extends geography
+
+class plants extends things
+grass grows as every turns, and when size to 10 new grass born nearby.
+
+kiwis can use mathrandom to find the chance of grubs and add energy.
+
+rabit uses comparator on grass to find nearest food with certain size.
+
+Streams to the island with symbol S.
+Animals field thirsty increaments on each turn. when it reaches to 30 and dont find water dies.
+if thirst more than 15 search for water,if find water drinks and resets to 0.
+
+islands be randomly populated with streams, grass, and creatures.
+
+add cats
+cats can eat rabits of less energy and kiwis.
+add cat food to food array. use comparator to finfd the nearestfood.
+
+
+
+
+
